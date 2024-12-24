@@ -2,4 +2,4 @@
 
 from .calculator import Calculator
 
-__all__ = ['Calculator'] 
+__all__ = ["Calculator"]

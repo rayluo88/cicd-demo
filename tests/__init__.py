@@ -1,1 +1,1 @@
-"""Test package for the calculator module.""" 
+"""Test package for the calculator module."""
