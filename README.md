@@ -54,4 +54,11 @@ The project uses GitHub Actions for CI/CD, which:
 1. Runs on every push and pull request
 2. Executes all tests
 3. Checks code formatting
-4. Reports test coverage 
+4. Reports test coverage
+
+### Coverage Reports
+Coverage reports are available in multiple locations:
+1. [Codecov Dashboard](https://codecov.io/gh/rayluo88/cicd-demo) - Shows detailed coverage analysis
+2. GitHub Pull Requests - Codecov comments with coverage changes
+3. GitHub Actions - Coverage data in workflow runs
+4. Local Environment - Run `pytest --cov=calculator tests/` to generate local reports 
