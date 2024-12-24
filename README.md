@@ -1,5 +1,7 @@
 # TDD and CI/CD Demo Project
 
+[![codecov](https://codecov.io/gh/YOUR_USERNAME/REPOSITORY_NAME/branch/main/graph/badge.svg)](https://codecov.io/gh/YOUR_USERNAME/REPOSITORY_NAME)
+
 This project demonstrates Test-Driven Development (TDD) and Continuous Integration/Continuous Deployment (CI/CD) concepts using a simple calculator library.
 
 ## Concepts Demonstrated
